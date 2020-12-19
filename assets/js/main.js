@@ -36,7 +36,7 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/library.jpg': 'center',
+							'images/Library.jpg': 'center',
 							'images/Code.jpg': 'center',
 							'images/Minecraft.png': 'left'
 						},
